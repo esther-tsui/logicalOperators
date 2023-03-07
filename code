@@ -13,3 +13,5 @@ let bool3 = !(false && true) && (false || false)
 print(bool1) // should be true
 print(bool2) // should be true
 print(bool3) // should be false
+
+//I find it's really help and much clearer to just have a comment after each operator and see exactly what it would print out. 
